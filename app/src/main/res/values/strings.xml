@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="app_label">Filmes</string>
+    <string name="search_hint">Pesquisar filme...</string>
+    <string name="search_title">Pesquisar filmes</string>
+    <string name="update_action_title">Atualizar lista de filmes</string>
+    <string name="title_label">Título:</string>
+    <string name="genre_label">Gênero:</string>
+    <string name="number_label">Número:</string>
+    <string name="net_label">Net:</string>
+    <string name="athome_label">Em Casa:</string>
+    <string name="details_activity_label">Detalhes do filme</string>
+</resources>

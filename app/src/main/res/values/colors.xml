@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zebra_even">#96333333</color>
+    <color name="zebra_odd">#96222222</color>
+    <color name="boxColor">#004d40</color>
+    <color name="boxLineColor">#b2dfdb</color>
+    <color name="boxBackgroundColor">#000000</color>
+</resources>
+
+<!--
+
+-->
